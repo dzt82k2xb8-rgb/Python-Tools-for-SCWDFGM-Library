@@ -1,4 +1,4 @@
-# SCWD-FGM Library Generator for OpenFOAM
+# Python Tools for SCWD-FGM Library
 
 ## Overview
 
